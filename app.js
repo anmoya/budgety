@@ -13,7 +13,7 @@ var budgetController = (function() {
         this.value = value;
     };
     
-    var cambio;
+    
 
     var data = {
         allItems: {
